@@ -1,0 +1,10 @@
+$backgroundcolor: #686de0;
+$bodycolor: #c3cfe2;
+
+@mixin font {
+  font-family: "Inter";
+}
+
+@mixin padding-media {
+  padding: 10px 10px;
+}
